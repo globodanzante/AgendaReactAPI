@@ -5,6 +5,12 @@
 h1{
   text-align: center;
 }
+.formulario{
+  margin: 10px 80px;
+  border: 2px solid rgb(112, 67, 153);;
+  padding: 3px 20px;
+  box-shadow: 0px 1px 15px 4px rgb(112, 67, 153);
+}
 .inserir{
   margin: 5px 10px;
   padding: 5px;
@@ -53,7 +59,7 @@ h2{
   width: 250px;
   height: 350px;
   color: aliceblue;
-  font-size: 17px;
+  font-size: 17 px;
   display: block;
   box-shadow: 2px -3px 8px rgb(112, 67, 153);
 
@@ -61,7 +67,7 @@ h2{
 .contac{
   display: inline-block;
   grid-row:auto;
-  margin: 0 15px;
+  margin: 20px 15px;
 }
 
 span{
