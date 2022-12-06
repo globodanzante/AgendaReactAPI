@@ -1,0 +1,91 @@
+.container {
+  background-color: rgb(31, 30, 30);
+  color: aliceblue;
+}
+h1{
+  text-align: center;
+}
+.inserir{
+  margin: 5px 10px;
+  padding: 5px;
+  width: 200px;
+}
+#agenda{
+  margin-left: 13%;
+}
+
+#datos{
+   display: block; 
+   padding: 5px;
+   margin-left: 40px;
+   width: 250px;
+}
+
+.busto{
+  width: 120px;
+  margin: 10px 25%;
+  filter: invert(1);
+}
+
+#boton{
+  padding: 5px;
+  margin: 10px;
+  background-color:  rgb(85, 17, 42) ;
+  color: aliceblue;
+  
+  
+}
+#boton1{
+  padding: 5px;
+  margin: 10px;
+  background-color:  rgb(42, 148, 66) ;
+  color: aliceblue;
+}
+
+
+h2{
+  text-align: center;
+}
+.card{
+  border-bottom: 5px solid rgb(114, 37, 114);
+  background-color: black;
+  border-top-left-radius: 50px;
+  width: 250px;
+  height: 350px;
+  color: aliceblue;
+  font-size: 17px;
+  display: block;
+  box-shadow: 2px -3px 8px rgb(112, 67, 153);
+
+}
+.contac{
+  display: inline-block;
+  grid-row:auto;
+  margin: 0 15px;
+}
+
+span{
+  display: block;
+  margin: 8px 5px 8px 15px;
+  
+}
+.botomcards{
+  text-align: center;
+  
+}
+.btn{
+  margin: 12px 10px;
+  background-color: rgb(171, 150, 20);
+  border-radius: 10px;
+  padding: 3px;
+  color: aliceblue;
+  font-size: 15px;
+}
+.btn1{
+  margin: 12px 10px;
+  background-color: rgb(85, 17, 42) ;
+  border-radius: 10px;
+  padding: 3px;
+  color: aliceblue;
+  font-size: 15px;
+}
